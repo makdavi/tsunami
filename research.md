@@ -6,6 +6,8 @@ While Japan may have the longest recorded history of tsunamis, the sheer destruc
 
 Tsunamis are an often underestimated hazard in the Mediterranean Sea and parts of Europe. Of historical and current (with regard to risk assumptions) importance are the 1755 Lisbon earthquake and tsunami (which was caused by the Azores–Gibraltar Transform Fault), the 1783 Calabrian earthquakes, each causing several tens of thousands of deaths and the 1908 Messina earthquake and tsunami. The tsunami claimed more than 123,000 lives in Sicily and Calabria and is among the most deadly natural disasters in modern Europe. The  Slide in the Norwegian Sea and some examples of tsunamis affecting the British Isles refer to landslide and tsunamis predominantly and less to earthquake-induced waves.
 
+https://en.wikipedia.org/wiki/Tsunami
+
 ### Communities Affected by Tsunamis
 Massive costs hit communities and nations when a tsunami happens. Victims and survivors of the tsunami need immediate help from rescue teams.
 
