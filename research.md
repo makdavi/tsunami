@@ -8,7 +8,7 @@ Most waves form due to winds or tides, but tsunamis have a different cause altog
 https://www.zmescience.com/science/geology/how-tsunamis-form/
 
 ### History of Tsunamis
-While Japan may have the longest recorded history of tsunamis, the sheer destruction caused by the 2004 Indian Ocean earthquake and tsunami event mark it as the most devastating of its kind in modern times, killing around 230,000 people.[22] The Sumatran region is also accustomed to tsunamis, with earthquakes of varying magnitudes regularly occurring off the coast of the island.[23]
+While Japan may have the longest recorded history of tsunamis, the sheer destruction caused by the 2004 Indian Ocean earthquake and tsunami event mark it as the most devastating of its kind in modern times, killing around 230,000 people. The Sumatran region is also accustomed to tsunamis, with earthquakes of varying magnitudes regularly occurring off the coast of the island.
 
 Tsunamis are an often underestimated hazard in the Mediterranean Sea and parts of Europe. Of historical and current (with regard to risk assumptions) importance are the 1755 Lisbon earthquake and tsunami (which was caused by the Azores–Gibraltar Transform Fault), the 1783 Calabrian earthquakes, each causing several tens of thousands of deaths and the 1908 Messina earthquake and tsunami. The tsunami claimed more than 123,000 lives in Sicily and Calabria and is among the most deadly natural disasters in modern Europe. The  Slide in the Norwegian Sea and some examples of tsunamis affecting the British Isles refer to landslide and tsunamis predominantly and less to earthquake-induced waves.
 
