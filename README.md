@@ -5,7 +5,7 @@ This is a website about tsunamis!!!!!
  - this website will provide fact about tsunamis, including:
    - how do they happen?
    - tsunamis throughout history
-   - communities effected by tsunamis
+   - communities affected by tsunamis
  - pull last 10 tsunamis from the web
  - how to help people who have been effected by tsunamis
 
