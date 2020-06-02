@@ -34,3 +34,19 @@ After a tsunami, contaminated water and food supplies pose a risk to people's he
 Tsunami dangers are difficult to detect far out at sea, since waves do not begin to gain size until they reach shallower waters. As a result, they strike with very little warning, often resulting in a huge loss of human life. The tsunami that struck northern Japan after an offshore earthquake on March 11, 2011, killed at least 14,340 people, which crushed buildings and left thousands trapped under debris or pulled out to sea.
 
 https://sciencing.com/do-tsunamis-affect-human-lives-8759187.html
+
+When disaster strikes, UNICEF is always among those first on the ground and the last to leave. This unprecedented catastrophe was no different. In the immediate aftermath, UNICEF teams worked on the frontline in eight countries — Indonesia, Thailand, Myanmar, Malaysia, Sri Lanka, the Maldives, India and Somalia — delivering safe drinking water to protect children and their families from deadly water-borne diseases. 
+
+Simultaneously, UNICEF set about providing sustainable solutions to the water crisis that would have a long term impact. In the neighboring town, Lambaro a water treatment plant that had escaped the tsunami's destruction was found suitable for rehab. Though it had fallen into disrepair, UNICEF and Indonesian engineers were able to get it back up and running. 
+
+“We worked day and night around the clock,” says TeukuNovizalAyub, the former director of the plant, which inevitably provided water for around 100,000 shell-shocked survivors who were living in camps in and around Banda Aceh. “We tried to make sure that the work we did create a sustainable resource so that it would continue to provide clean water for as long as possible,” says Mr Ayub.
+
+Those improvements live on. Today, the plant at Lambaro continues to serve the people of Banda Aceh. When disaster strikes, UNICEF is always among those first on the ground and the last to leave. This unprecedented catastrophe was no different. In the immediate aftermath, UNICEF teams worked on the frontline in eight countries — Indonesia, Thailand, Myanmar, Malaysia, Sri Lanka, the Maldives, India and Somalia — delivering safe drinking water to protect children and their families from deadly water-borne diseases. 
+
+Simultaneously, UNICEF set about providing sustainable solutions to the water crisis that would have a long term impact. In the neighboring town, Lambaro, a water treatment plant that had escaped the tsunami's destruction was found suitable for rehab. Though it had fallen into disrepair, UNICEF and Indonesian engineers were able to get it back up and running. 
+
+“We worked day and night around the clock,” says TeukuNovizalAyub, the former director of the plant, which inevitably provided water for around 100,000 shell-shocked survivors who were living in camps in and around Banda Aceh. “We tried to make sure that the work we did create a sustainable resource so that it would continue to provide clean water for as long as possible,” says Mr Ayub.
+
+Those improvements live on. Today, the plant at Lambaro continues to serve the people of Banda Aceh. 
+
+https://www.unicefusa.org/mission/emergencies/tsunamis
