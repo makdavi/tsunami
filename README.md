@@ -12,10 +12,10 @@ This is a website about tsunamis!!!!!
 ### Milestones
 
 1. research tsunamis 
-   - [ ] how they happen
-   - [ ] history
-   - [ ] communities
-   - [ ] look for tsunami APIs'
+   - [ x] how they happen
+   - [ x] history
+   - [ x] communities
+   - [x ] look for tsunami APIs'
 
 2. Make a website outline and wireframe
 
